@@ -1,0 +1,9 @@
+#objetos{
+    width: 60%;
+    padding-top: 20px;
+}
+
+#objetos a{
+    text-decoration: none;
+    color: black;
+}
